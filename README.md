@@ -1,1 +1,0 @@
-# elvoratec_video_demo
